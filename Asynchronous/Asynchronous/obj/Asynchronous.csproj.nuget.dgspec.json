@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj",
         "projectName": "Asynchronous",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Asynchronous\\Asynchronous\\Asynchronous.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\Asynchronous\\Asynchronous\\Asynchronous\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Asynchronous\\Asynchronous\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

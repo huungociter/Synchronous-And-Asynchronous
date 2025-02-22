@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\Synchronous\\Synchronous\\Synchronous.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Synchronous\\Synchronous\\Synchronous.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\Synchronous\\Synchronous\\Synchronous.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Synchronous\\Synchronous\\Synchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Synchronous\\Synchronous\\Synchronous.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Synchronous\\Synchronous\\Synchronous.csproj",
         "projectName": "Synchronous",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\Synchronous\\Synchronous\\Synchronous.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Synchronous\\Synchronous\\Synchronous.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\Synchronous\\Synchronous\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Synchronous-And-Asynchronous\\Synchronous\\Synchronous\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
